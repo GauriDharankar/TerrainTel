@@ -227,7 +227,8 @@ Final Year Information Technology Engineering Student
 Def-Space Summer Internship Project
 
 ---
+## Copyright
 
-## License
+© 2026 Gauri Dharankar. All rights reserved.
 
-This project is licensed under the MIT License.
+This repository is provided for academic and demonstration purposes.
