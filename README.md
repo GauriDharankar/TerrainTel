@@ -232,3 +232,23 @@ Def-Space Summer Internship Project
 © 2026 Gauri Dharankar. All rights reserved.
 
 This repository is provided for academic and demonstration purposes.
+
+## Screenshots
+
+### Interactive Map Interface
+
+![Map Interface](screenshots/map-interface.png)
+
+Users can select any location on the map to begin analysis.
+
+### Satellite Imagery Acquisition
+
+![Satellite Imagery](screenshots/satellite-image.png)
+
+TerrainTel retrieves Sentinel-2 satellite imagery for the selected location.
+
+### Intelligence Report
+
+![Intelligence Report](screenshots/intelligence-report.png)
+
+The system generates an intelligence summary including risk level, confidence score, observations, and recommendations.
